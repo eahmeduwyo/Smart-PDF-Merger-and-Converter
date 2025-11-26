@@ -6,7 +6,7 @@ A Jupyter Notebook tool that intelligently groups, converts, and merges document
 
 I built this tool during my Teaching Assistantship to handle the massive influx of student submissions downloaded from **Canvas LMS**.
 
-I was faced with over **1,300 files**, a mix of PDFs, Word documents, and images—that needed to be grouped by student and merged into single documents for reserving for upcoming years. I had already graded those. Doing this manually would have been an impossible, daunting task. I created this notebook to automate the entire workflow, saving countless hours of manual labor.
+I was faced with over **1,300 files**, a mix of PDFs, Word documents, and images, that needed to be grouped by student and merged into single documents for reserving for upcoming years. I had already graded those. Doing this manually would have been an impossible, daunting task. I created this notebook to automate the entire workflow, saving countless hours of manual labor.
 
 If you are an educator, TA, or just someone dealing with bulk file organization, I hope this saves you as much time as it saved me\!
 
